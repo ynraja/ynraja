@@ -4,7 +4,7 @@
 - 💞️ I would like to maintain a repository with best practices, quick solutions and learnings.
 - 📫 you can reach me on ynraja@gmail.com 
 
-=======> BE SIMPLE, BE HAPPY & BE SAFE  :)  <==========
+              BE SIMPLE, BE HAPPY & BE SAFE  :) 
 
 <!---
 ynraja/ynraja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
