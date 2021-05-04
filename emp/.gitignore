@@ -1,0 +1,20 @@
+# Eclipse files
+.project
+.classpath
+.settings
+
+# Java
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# maven
+target/
+
+# Eclipse files
+.project
+.classpath
+.settings
